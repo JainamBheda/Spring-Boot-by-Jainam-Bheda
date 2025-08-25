@@ -4,4 +4,4 @@
 	- It simply configures and setup the processes, allowing developers to focus more on writing code for their application.
 	  
 - Traditional spring framework requires heavy `XML` configuration, making them complex.
-- The above pro
+- The above problem is solved by Spring Boot.
