@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b5a146e6a6f35871","type":"text","text":"Spring Container","x":-300,"y":-160,"width":400,"height":240,"color":"3"},
+		{"id":"b5a146e6a6f35871","type":"text","text":"Spring Container","x":-300,"y":-160,"width":400,"height":240},
 		{"id":"3d36605f904714be","type":"text","text":"","x":-240,"y":-101,"width":86,"height":61,"color":"1"},
 		{"id":"c80a552c56be397f","type":"text","text":"","x":-100,"y":-121,"width":68,"height":51,"color":"2"},
 		{"id":"be6114612701dd00","type":"text","text":"","x":0,"y":0,"width":50,"height":51,"color":"6"},
