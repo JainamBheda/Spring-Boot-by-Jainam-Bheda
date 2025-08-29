@@ -13,4 +13,6 @@ So IoC Container uses
 - annotations / POJOs
 
 `Since the container , not the developer controls object creation and wiring`
-- That's why it is called Inversion of Control
+- That's why it is called Inversion of Control.
+
+There are two types of IoC Containers 
