@@ -19,4 +19,4 @@ means Bean Factory (Spring IoC container) containing too many beans(Objects).
 ![[Pasted image 20250829220026.png]]
 
 The Program flow is something like this 
-1. Bean facto
+1. Bean factory reads XML configuration file and as per the specification 
