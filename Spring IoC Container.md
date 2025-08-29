@@ -16,3 +16,5 @@ So IoC Container uses
 - That's why it is called Inversion of Control.
 
 There are two types of IoC Containers 
+1. [[BeanFactory]]
+2. [[ApplicationContext]]
