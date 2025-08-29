@@ -6,7 +6,7 @@
 
 - Normally in JAVA , we create the object `manually` using `new` keyword.
 - But in Spring, you just declare what you need, and `Spring creates and manages the object for you`
-- This makes application easy to maintain.
+- This makes application easy to maintain..
 
 
 Example:
@@ -26,4 +26,5 @@ public class Jainam{
 
 This creation and management of objects without new keyword is done by following features of Spring Boot.
 
-1. [[]]
+1. [[Spring IoC Container]]
+2. 
