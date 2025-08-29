@@ -9,3 +9,4 @@
 So Bean factory provide Dependencies injection
 Bean factory creates bean only when you request it. (`Lazy Loading`).
 
+![[BeanFactory.canvas|BeanFactory]]
