@@ -6,4 +6,6 @@
   
 - Beans are `JAVA objects` that are configured at `run time` by IoC container.
 
-So Bean factory provide Dependenc
+So Bean factory provide Dependencies injection
+Bean factory creates bean only when you request it. (`Lazy Loading`).
+
