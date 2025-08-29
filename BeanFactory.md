@@ -14,4 +14,4 @@ Bean factory creates bean only when you request it. (`Lazy Loading`).
 So imaging the above diagram like 
 a container containing too many beans 
 
-means Bean Factory
+means Bean Factory (Spring IoC container) containing too many beans(Objects).
