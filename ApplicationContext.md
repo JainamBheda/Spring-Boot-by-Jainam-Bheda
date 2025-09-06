@@ -22,6 +22,6 @@
 		- It accepts class annotated with `@Configuration`, `@Component` and `JSR - 330` complaint classes.
 		- The constructir of this container accepts `one or more classes`.
 		- Example :
-```
-		  
-		  ```
+	```
+	ApplicationContext context = new Annotation
+	```
