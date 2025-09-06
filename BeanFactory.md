@@ -19,9 +19,17 @@ means Bean Factory (Spring IoC container) containing too many beans(Objects).
 ![[Pasted image 20250829220026.png]]
 
 The Program flow is something like this 
-1. Bean factory reads XML configuration file and as per the specification 
-2. Then the student reference ask for the student object from the object factory.
+	1. Bean factory reads XML configuration file and as per the specification 
+1. Then the student reference ask for the student object from the object factory.
 
 Step - By step implementation to configure Bean factory in Spring 
 
-Step1 : Create Student Cl
+Step1 : Create Student Class (POJO)
+```
+public class Student{
+	private String name;
+	private int age;
+	public Student(){}
+	publ
+}
+```
