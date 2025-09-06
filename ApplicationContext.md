@@ -25,4 +25,9 @@
 	```
 	ApplicationContext context = new AnnotationConfigApplicationContext(Appconfig1 , Appconfig2);
 	```
-	
+
+`AppConfig1 and AppConfig2 have the same bean declaration.`
+
+
+
+
