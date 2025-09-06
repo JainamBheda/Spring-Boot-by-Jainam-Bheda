@@ -23,5 +23,6 @@
 		- The constructir of this container accepts `one or more classes`.
 		- Example :
 	```
-	ApplicationContext context = new Annotation
+	ApplicationContext context = new AnnotationConfigApplicationContext(Appconfig1 , Appconfig2);
 	```
+	
