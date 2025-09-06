@@ -13,4 +13,5 @@
 		1. AnnotationConfigApplicationContext Container.
 		2. AnnotationConfigWebApplicationContext
 		3. XmlWebApplicationContext
-		4. 
+		4. FileSystemXmlApplicationContext
+		5. ClassPathXmlApplicationContext.
