@@ -28,6 +28,6 @@
 `AppConfig1 and AppConfig2 have the same bean declaration.`
 
 2. Container 2 : `AnnotationConfigWebApplicationContext`
-	 - It accepts classes annotated with `@configuration` ,`@Component`,
+	 - It accepts classes annotated with `@configuration` ,`@Component`, and JS
 
 
