@@ -28,6 +28,7 @@
 `AppConfig1 and AppConfig2 have the same bean declaration.`
 
 2. Container 2 : `AnnotationConfigWebApplicationContext`
-	 - It accepts classes annotated with `@configuration` ,`@Component`, and JS
+	 - It accepts classes annotated with `@configuration` ,`@Component`, and JSR - 330
+	 - These classes can be registered via `register()` method or passing base package to `scan()` method
 
 
