@@ -27,6 +27,7 @@
 	```
 `AppConfig1 and AppConfig2 have the same bean declaration.`
 
-2. Container : `AnnotationConfigWebApplicationContext`
+2. Container 2 : `AnnotationConfigWebApplicationContext`
+	 - 
 
 
