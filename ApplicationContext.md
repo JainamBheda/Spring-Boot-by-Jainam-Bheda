@@ -8,4 +8,6 @@
 	 4. Loading file resources in generic manner.
 
 - ApplicationContext Implementation Classes 
-	
+	- There are different types of application containers provided by Spring for different requirements.
+	- Containers are as follows 
+			
