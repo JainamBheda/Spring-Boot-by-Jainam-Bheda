@@ -57,3 +57,20 @@ Step 2 : XML bean configuration
 ```
 
 Step 2  : Main class file
+```
+@SpringBootApplication
+// Main class
+public class DemoApplication 
+{
+// Main driver method
+  public static void main(String[] args) 
+  {
+    // Creating object in a spring container (Beans)
+    BeanFactory factory = new ClassPathXmlApplicationContext("bean-factory-demo.xml");
+    Student student = (Student) factory.getBean("student");
+
+    System.out.println(student);
+  }
+}
+```
+
