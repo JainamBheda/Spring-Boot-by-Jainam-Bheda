@@ -10,4 +10,7 @@
 - ApplicationContext Implementation Classes 
 	- There are different types of application containers provided by Spring for different requirements.
 	- Containers are as follows 
-			
+		1. AnnotationConfigApplicationContext Container.
+		2. AnnotationConfigWebApplicationContext
+		3. XmlWebApplicationContext
+		4. 
