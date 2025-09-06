@@ -30,5 +30,21 @@
 2. Container 2 : `AnnotationConfigWebApplicationContext`
 	 - It accepts classes annotated with `@configuration` ,`@Component`, and JSR - 330
 	 - These classes can be registered via `register()` method or passing base package to `scan()` method
+```
+// Class
+// Implementing WebApplicationInitializer
+public class MyWebApplicationInitializer implements WebApplicationInitializer {
+
+  // Servlet container
+
+  public void onStartup(ServletContext container) throws ServletException {
+    AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
+    context.register(AppConfig.class);
+    context.setServletContext(container);
+
+    // Servlet configuration
+  }
+}
+```
 
 
