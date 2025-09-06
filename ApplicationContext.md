@@ -19,4 +19,5 @@
 		   
 	1. Container 1 : `AnnotationConfigApplicationContext`
 		- This class was introduced in Spring 3.0
-		- It accepts class annotated with 
+		- It accepts class annotated with `@Configuration`, `@Component` and `JSR - 330` complaint classes.
+		- The constructi
