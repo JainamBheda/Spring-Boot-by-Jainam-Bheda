@@ -56,7 +56,7 @@ Step 2 : XML bean configuration
 </beans>
 ```
 
-Step 2  : Main class file
+Step 3  : Main class file
 ```
 @SpringBootApplication
 // Main class
