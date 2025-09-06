@@ -30,6 +30,14 @@ public class Student{
 	private String name;
 	private int age;
 	public Student(){}
-	publ
+	public Student(String name,int age){
+		this.name = name;
+		this.age = age;
+	}
+	
+	@override
+	public String to_string(){
+		
+	}
 }
 ```
