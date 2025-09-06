@@ -1,1 +1,1 @@
-- This is extenstion of BeanFac
+- This is extenstion of BeanFactory with more enterprise features like event propogation and internationalization.
