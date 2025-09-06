@@ -27,4 +27,5 @@ public class Jainam{
 This creation and management of objects without new keyword is done by following features of Spring Boot.
 
 1. [[Spring IoC Container]]
-2. 
+2. [[Dependency Injection]]
+3. 
